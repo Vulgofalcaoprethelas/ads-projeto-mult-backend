@@ -1,4 +1,4 @@
-SCREATE TABLE lancamentos
+CREATE TABLE lancamentos
 (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     descricao VARCHAR(200) NOT NULL,
